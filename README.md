@@ -2,7 +2,7 @@
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CiceroSimplicio&show_icons=true&theme=radical&hide=prs,contribs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CiceroSimplicio&show_icons=true&theme=dracula&hide=prs,contribs)
 
 ### Minhas tecnologias
 
@@ -17,4 +17,4 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cicerosimplicio&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cicerosimplicio&layout=compact&theme=dracula)
